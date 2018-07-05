@@ -1,0 +1,4 @@
+{
+    "cmd": ["path to mysql binary file in your system", "-u", "username", "-p", "password", "-e", "source $file", "-D", "dbname"],
+    "selector": "source.sql"
+}
